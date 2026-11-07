@@ -1,0 +1,9 @@
+{
+  "name": "nandhicrushers",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Public website for Nandhi Crushers",
+  "scripts": {
+    "build": "node scripts/build.mjs"
+  }
+}
