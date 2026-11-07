@@ -24,6 +24,6 @@ Push this repository to GitHub with the default branch named `main`. In reposito
 
 Product categories and named models are taken from Nandhi Engineering's public English-language site. The source does not publish detailed technical specifications, so product pages invite buyers to discuss their application with the company instead of making unsupported performance or availability claims. The customer review section is omitted because no verified, permission-cleared stories were supplied.
 
-The VSI 200 page uses the two factory photographs supplied in the project Downloads folder.
+The VSI 200 page uses the two factory photographs supplied in the project Downloads folder, need to add others as well.
 
 Business contact details and hours are presented as published: Monday–Saturday, 9:00 am–6:00 pm. Factory visits are by appointment.
