@@ -11,7 +11,7 @@ const address = 'No. 2/281, Madukkarai, Chettipalayam Road, Bodipalayam (PO), Co
 const phone1 = '+91 94435 96418';
 const phone2 = '+91 99762 89748';
 const whatsapp = 'https://wa.me/919976289748';
-const directions = 'https://www.google.com/maps/search/?api=1&query=' + encodeURIComponent(address);
+const directions = 'https://maps.app.goo.gl/vQEKpbUzhcVFS6F59';
 const youtube = 'https://www.youtube.com/embed/r7IVDR_4Q-w';
 const categoryImages = [
   'https://www.nandhicrusher.com/uploads/category/16a206ed7c28221bcdd844740911861e.jpeg',
