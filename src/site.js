@@ -18,7 +18,6 @@ if (consultationForm) {
       'Hello Nandhi Crushers, I would like a free consultation.',
       `Name: ${data.get('name')}`,
       `Mobile: ${data.get('phone')}`,
-      data.get('email') ? `Email: ${data.get('email')}` : '',
       `Project: ${data.get('project')}`,
       `Site visit requested: ${data.get('siteVisit') ? 'Yes' : 'No'}`,
       data.get('details') ? `Details: ${data.get('details')}` : '',
